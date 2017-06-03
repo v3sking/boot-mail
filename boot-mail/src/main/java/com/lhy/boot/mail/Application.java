@@ -3,7 +3,11 @@ package com.lhy.boot.mail;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-
+/**
+ * 
+ * @author luanhy
+ *
+ */
 @SpringBootApplication
 public class Application{
 
